@@ -1,0 +1,15 @@
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.csproj.AssemblyReference.cache
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.AssemblyInfoInputs.cache
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.AssemblyInfo.cs
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.csproj.CoreCompileInputs.cache
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/bin/Debug/net7.0/kodgripckcam
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/bin/Debug/net7.0/kodgripckcam.deps.json
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/bin/Debug/net7.0/kodgripckcam.runtimeconfig.json
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/bin/Debug/net7.0/kodgripckcam.dll
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/bin/Debug/net7.0/kodgripckcam.pdb
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.dll
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/refint/kodgripckcam.dll
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.pdb
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/kodgripckcam.genruntimeconfig.cache
+/Users/aysecifci/Desktop/kodgripckcam/kodgripckcam/obj/Debug/net7.0/ref/kodgripckcam.dll

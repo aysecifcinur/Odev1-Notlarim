@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{88172EDD-8A3F-4A59-9B21-FD759ABEE5DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.kodgripckcam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="kodgripckcam/Program.cs">
+    <Files>
+      <File FileName="kodgripckcam/Program.cs" Line="21" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kodgripckcam" expanded="True">
+            <Node name="kodgripckcam" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
